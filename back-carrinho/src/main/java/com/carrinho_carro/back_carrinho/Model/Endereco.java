@@ -1,4 +1,4 @@
-package com.carrinhocachorro.back_carrinho.Model;
+package com.carrinho_carro.back_carrinho.Model;
 
 import jakarta.persistence.*;
 import lombok.Data;

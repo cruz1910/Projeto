@@ -1,4 +1,4 @@
-package com.carrinhocachorro.back_carrinho.Dto;
+package com.carrinho_carro.back_carrinho.Dto;
 
 import lombok.Data;
 import java.math.BigDecimal;

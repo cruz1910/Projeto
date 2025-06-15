@@ -1,4 +1,4 @@
-package com.carrinhocachorro.back_carrinho;
+package com.carrinho_carro.back_carrinho;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
