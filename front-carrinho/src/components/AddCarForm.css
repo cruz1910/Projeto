@@ -1,0 +1,37 @@
+.form-adicionar-carro {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.grupo-form {
+  margin-bottom: 15px;
+}
+
+.grupo-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.grupo-form input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.botao-adicionar {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.botao-adicionar:hover {
+  background-color: #0056b3;
+}

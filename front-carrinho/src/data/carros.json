@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nome": "Ferrari F40",
+    "preco": 999999.99,
+    "marca": "Ferrari",
+    "ano": 1987,
+    "categoria": "Esportivo"
+  },
+  {
+    "id": 2,
+    "nome": "Lamborghini Aventador",
+    "preco": 1899999.99,
+    "marca": "Lamborghini",
+    "ano": 2011,
+    "categoria": "Esportivo"
+  },
+  {
+    "id": 3,
+    "nome": "Porsche 911",
+    "preco": 799999.99,
+    "marca": "Porsche",
+    "ano": 1963,
+    "categoria": "Esportivo"
+  },
+  {
+    "id": 4,
+    "nome": "BMW Série 3",
+    "preco": 299999.99,
+    "marca": "BMW",
+    "ano": 2023,
+    "categoria": "Sedan"
+  },
+  {
+    "id": 5,
+    "nome": "Mercedes-Benz Classe C",
+    "preco": 399999.99,
+    "marca": "Mercedes-Benz",
+    "ano": 2023,
+    "categoria": "Sedan"
+  },
+  {
+    "id": 6,
+    "nome": "Audi A3",
+    "preco": 249999.99,
+    "marca": "Audi",
+    "ano": 2023,
+    "categoria": "Sedan"
+  },
+  {
+    "id": 7,
+    "nome": "Jeep Wrangler",
+    "preco": 349999.99,
+    "marca": "Jeep",
+    "ano": 2023,
+    "categoria": "SUV"
+  },
+  {
+    "id": 8,
+    "nome": "Ford Mustang",
+    "preco": 499999.99,
+    "marca": "Ford",
+    "ano": 1964,
+    "categoria": "Muscle Car"
+  }
+]

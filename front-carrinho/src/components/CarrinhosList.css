@@ -1,0 +1,36 @@
+.container-carros {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.lista-carros {
+  margin-top: 20px;
+}
+
+.item-carro {
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.nome-carro {
+  font-weight: bold;
+  font-size: 1.1em;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.quantidade-carro {
+  color: #666;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.preco-carro {
+  color: #007bff;
+  font-weight: bold;
+  display: block;
+}
